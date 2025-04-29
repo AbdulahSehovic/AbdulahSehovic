@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**AbdulahSehovic/AbdulahSehovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Abdulah Sehovic
 
-Here are some ideas to get you started:
+📍 Lisbon, Portugal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Objective  
+🚀 Progression in my QA career — currently working as a Junior Tester for the past 3 years.
+
+---
+
+### 🧠 Skills & Qualifications
+
+**Technical Skills**
+- ✅ Strong knowledge of software testing techniques (ISTQB syllabus)
+- ✅ Agile methodologies: Scrum & Kanban
+- ✅ Bug reporting & test case writing
+- ✅ Test plan, progress, and summary report creation
+- ✅ Familiar with tools: TestLink, JIRA, TFS, Trello
+- 🧪 SQL
+- 🐍 Python
+- 🧪 Pytest
+- 🎭 Playwright
+- 🔗 API Testing (Postman)
+- 📈 Performance Testing with JMeter *(in progress)*
+
+---
+
+🛠️ Passionate about improving quality and efficiency in software projects. Always learning, always testing. Let's connect!
