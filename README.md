@@ -6,7 +6,7 @@
 ---
 
 ### 🎯 Objective  
-🚀 Progression in my QA career — currently working as a Junior Tester for the past 3 years.
+🚀 Progression in my QA career — currently working as a Junior Tester since may of 2023.
 
 ---
 
@@ -18,13 +18,10 @@
 - ✅ Bug reporting & test case writing
 - ✅ Test plan, progress, and summary report creation
 - ✅ Familiar with tools: TestLink, JIRA, TFS, Trello
-- 🧪 SQL
 - 🐍 Python
 - 🧪 Pytest
 - 🎭 Playwright
 - 🔗 API Testing (Postman)
-- 📈 Performance Testing with JMeter *(in progress)*
-
 ---
 
 🛠️ Passionate about improving quality and efficiency in software projects. Always learning, always testing. Let's connect!
